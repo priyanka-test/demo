@@ -135,6 +135,16 @@
           "allocationrow": "false"
         }
   ],
+  "headcount":[
+    {"id": 1, "value":"The Far Side of the World", "disabled": true},
+    {"id": 2, "value":"Morituri", "disabled": true},
+    {"id": 3, "value":"Napoleon Dynamite", "disabled": true},
+    {"id": 4, "value":"Pulp Fiction", "disabled": false},
+    {"id": 5, "value":"Blade Runner", "disabled": false},
+    {"id": 6, "value":"Cool Hand Luke", "disabled": false},
+    {"id": 7, "value":"Heat", "disabled": false},
+    {"id": 8, "value":"Juice", "disabled": false}
+  ],
   "profile": {
     "name": "typicode"
   }
