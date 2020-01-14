@@ -136,23 +136,97 @@
         }
   ],
   "headcount":[
-    {
-      "id": 1, 
-      "value":"The Far Side of the World", 
-      "disabled": true
-    },
-    {
-      "id": 2, 
-      "value":"Morituri", 
-      "disabled": true
-    },
-    {"id": 3, "value":"Napoleon Dynamite", "disabled": true},
-    {"id": 4, "value":"Pulp Fiction", "disabled": false},
-    {"id": 5, "value":"Blade Runner", "disabled": false},
-    {"id": 6, "value":"Cool Hand Luke", "disabled": false},
-    {"id": 7, "value":"Heat", "disabled": false},
-    {"id": 8, "value":"Juice", "disabled": false}
-  ],
+            
+            {
+              id:1,
+            columnHeader: 'cTool ID',
+            columnName: 'ctoolid',
+            isChecked: true,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:2,
+            columnHeader: 'Employee ID',
+            columnName: 'employeeid',
+            isChecked: false,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:3,
+            columnHeader: 'Full Name',
+            columnName: 'empname',
+            isChecked: true,
+            width:'100',
+            type:'text'
+        },
+        {
+          id:4,
+            columnHeader: 'Direct Cost',
+            columnName: 'directcost',
+            isChecked: true,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:5,
+            columnHeader: 'Role Start date',
+            columnName: 'rolestartdate',
+            isChecked: true,
+            width:'80',
+            type:'date'
+        },
+        {
+          id:6,
+            columnHeader: 'Role End date',
+            columnName: 'roleenddate',
+            isChecked: true,
+            width:'80',
+            type:'date'
+        },
+        {
+          id:7,
+            columnHeader: 'Location',
+            columnName: 'location',
+            isChecked: true,
+            width:'80',
+            type:'text'
+        },
+        {
+          id:8,
+            columnHeader: 'Current LE',
+            columnName: 'currentLEValue',
+            isChecked: false,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:9,
+            columnHeader: 'Pool',
+            columnName: 'pool',
+            isChecked: false,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:10,
+            columnHeader: 'Target',
+            columnName: 'targetValue',
+            isChecked: false,
+            width:'80',
+            type:'number'
+        },
+        {
+          id:11,
+            columnHeader: 'Post CRLE',
+            columnName: 'postCRLE',
+            isChecked: false,
+            width:'80',
+            type:'number'
+        }
+        
+    ],
   "profile": {
     "name": "typicode"
   }
