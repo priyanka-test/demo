@@ -139,12 +139,12 @@
     {
       "id": 1, 
       "value":"The Far Side of the World", 
-      "disabled": "true"
+      "disabled": true
     },
     {
       "id": 2, 
       "value":"Morituri", 
-      "disabled": "true"
+      "disabled": true
     },
     {"id": 3, "value":"Napoleon Dynamite", "disabled": true},
     {"id": 4, "value":"Pulp Fiction", "disabled": false},
