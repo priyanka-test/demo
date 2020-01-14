@@ -137,93 +137,93 @@
   ],
   "headcount":[
             
-            {
-              id:1,
-            columnHeader: 'cTool ID',
-            columnName: 'ctoolid',
-            isChecked: true,
-            width:'80',
-            type:'number'
+        {
+            "id":1,
+            "columnHeader": "cTool ID",
+            "columnName": "ctoolid",
+            "isChecked": true,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:2,
-            columnHeader: 'Employee ID',
-            columnName: 'employeeid',
-            isChecked: false,
-            width:'80',
-            type:'number'
+			"id":2,
+            "columnHeader": "Employee ID",
+            "columnName": "employeeid",
+            "isChecked": false,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:3,
-            columnHeader: 'Full Name',
-            columnName: 'empname',
-            isChecked: true,
-            width:'100',
-            type:'text'
+			"id":3,
+            "columnHeader": "Full Name",
+            "columnName": "empname",
+            "isChecked": true,
+            "width":"100",
+            "type":"text"
         },
         {
-          id:4,
-            columnHeader: 'Direct Cost',
-            columnName: 'directcost',
-            isChecked: true,
-            width:'80',
-            type:'number'
+			"id":4,
+            "columnHeader": "Direct Cost",
+            "columnName": "directcost",
+            "isChecked": true,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:5,
-            columnHeader: 'Role Start date',
-            columnName: 'rolestartdate',
-            isChecked: true,
-            width:'80',
-            type:'date'
+			"id":5,
+            "columnHeader": "Role Start date",
+            "columnName": "rolestartdate",
+            "isChecked": true,
+            "width":"80",
+            "type":"date"
         },
         {
-          id:6,
-            columnHeader: 'Role End date',
-            columnName: 'roleenddate',
-            isChecked: true,
-            width:'80',
-            type:'date'
+			"id":6,
+            "columnHeader": "Role End date",
+            "columnName": "roleenddate",
+            "isChecked": true,
+            "width":"80",
+            "type":"date"
         },
         {
-          id:7,
-            columnHeader: 'Location',
-            columnName: 'location',
-            isChecked: true,
-            width:'80',
-            type:'text'
+			"id":7,
+            "columnHeader": "Location",
+            "columnName": "location",
+            "isChecked": true,
+            "width":"80",
+            "type":"text"
         },
         {
-          id:8,
-            columnHeader: 'Current LE',
-            columnName: 'currentLEValue',
-            isChecked: false,
-            width:'80',
-            type:'number'
+			"id":8,
+            "columnHeader": "Current LE",
+            "columnName": "currentLEValue",
+            "isChecked": false,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:9,
-            columnHeader: 'Pool',
-            columnName: 'pool',
-            isChecked: false,
-            width:'80',
-            type:'number'
+			"id":9,
+            "columnHeader": "Pool",
+            "columnName": "pool",
+            "isChecked": false,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:10,
-            columnHeader: 'Target',
-            columnName: 'targetValue',
-            isChecked: false,
-            width:'80',
-            type:'number'
+			"id":10,
+            "columnHeader": "Target",
+            "columnName": "targetValue",
+            "isChecked": false,
+            "width":"80",
+            "type":"number"
         },
         {
-          id:11,
-            columnHeader: 'Post CRLE',
-            columnName: 'postCRLE',
-            isChecked: false,
-            width:'80',
-            type:'number'
+			"id":11,
+            "columnHeader": "Post CRLE",
+            "columnName": "postCRLE",
+            "isChecked": false,
+            "width":"80",
+            "type":"number"
         }
         
     ],
